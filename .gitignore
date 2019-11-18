@@ -1,0 +1,8 @@
+data
+.DS_Store
+.idea/
+data/.DS_Store
+data/test/.DS_Store
+data/train/.DS_Store
+results/.ipynb_checkpoints/
+results/__pycache__/
